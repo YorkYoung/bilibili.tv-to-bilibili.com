@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         My Fancy New Userscript
-// @namespace    https://github.com/YorkYoung/bilibili.tv-to-bilibili.com
-// @version      0.1
+// @name         bilibili.tv to bilibili.com
+// @namespace    https://github.com/YorkYoung/bilibili.tv-to-bilibili.com/blob/master/bilibili.tv-to-bilibili.com.js
+// @version      1.0
 // @description  UserScript to change bilibili.tv to bilibili.com
 // @author       YorkYoung
 // @match        http://www.bilibili.tv/*
